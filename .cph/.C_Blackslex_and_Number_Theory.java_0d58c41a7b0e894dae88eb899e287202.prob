@@ -1,0 +1,1 @@
+{"name":"Local: C_Blackslex_and_Number_Theory","url":"d:\\codeforces\\C_Blackslex_and_Number_Theory.java","tests":[{"id":1766506677351,"input":"3\n3\n5 7 9\n2\n2 3\n7\n11 74 5 22 52 97 82","output":"5\n2\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\C_Blackslex_and_Number_Theory.java","group":"local","local":true}
